@@ -1,2 +1,2 @@
-#my first html demo
+#my first html demo. 
 It is partly responsive.
